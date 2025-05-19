@@ -53,6 +53,7 @@ t-Distributed Stochastic Neighbor Embedding is a non-linear dimensionality reduc
 In simple terms, t-SNE calculates similarity of data point x1 to data point x2 as a probability  distribution p. Higher p values are nearer to each other compared to farther away points. 
 For k=7 clusters, below are the t-SNE plots for kmeans and MiniBatch kmeans respectively 
 Post EDA: We then performed Compared the features, AUC, Accuracy, Precision from each of the  model. Clustering after SVC gave max silhouette score of 0.78. 
+![LR_TSNE](LR_tSNE.png)
 ### Benefits: 
 1. Personalize Communication: Having a better understanding of their customers,  the realtors  can  target each customer groups with a bespoke approach rather than a one size fits all technique.  Targeting by specific group makes it easier to communicate with their customers with message  relevant to them, providing a more personalized approach with appropriate marketing  communications 
 2. Prospect Acquisition: Having identified the profiles of the best and most profitable customers,  realtors can then find look alike prospects and target them in an effective manner. These  prospects will have a higher propensity to take up their offer and therefore provide a more cost effective means of targeting new customers. 
